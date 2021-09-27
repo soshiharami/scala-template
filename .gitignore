@@ -4,6 +4,12 @@
 ### Bloop ###
 .bloop/
 
+
+### Metals ###
+.metals/
+.bloop/
+project/**/metals.sbt
+
 ### Eclipse ###
 .metadata
 bin/
